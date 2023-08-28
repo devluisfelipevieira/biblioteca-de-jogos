@@ -1,6 +1,6 @@
 # Biblioteca de jogos
 
-##Uma biblioteca onde é possível adicionar jogos que marcaram a infância
+## Uma biblioteca onde é possível adicionar jogos que marcaram a infância
 
 * No campo "Título" é possivel colocar o nome do game a ser adicionado na biblioteca
 * No campo "Capa" deve ser adicionado o link de uma imagem para que ela apareça como capa do game que deseja adicionar
